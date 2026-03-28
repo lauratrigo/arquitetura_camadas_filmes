@@ -1,0 +1,12 @@
+{
+    "name": "laura/codigos-php",
+    "require": {
+        "slim/slim": "^4.15",
+        "slim/psr7": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
